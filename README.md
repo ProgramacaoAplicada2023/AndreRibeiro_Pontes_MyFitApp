@@ -28,6 +28,7 @@ Todos os dados são automaticamente salvos para que você possa retomar de onde 
 Requisitos:
 
 Certifique-se de ter o Python instalado em seu sistema.
+Baixe o arquivo MFA3.0.zip
 Instale as dependências usando o comando: pip install tk.
 Execução do Aplicativo:
 
